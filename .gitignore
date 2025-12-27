@@ -1,0 +1,8 @@
+venv/
+env/
+.env
+pycache/
+*.pyc
+.streamlit/secrets.toml
+faiss_index/
+chroma_db/
